@@ -1,0 +1,30 @@
+/* Home.css */
+
+.home-container {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  .home-container h2 {
+    color: #333;
+  }
+  
+  .home-nav ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .home-nav li {
+    margin: 10px 0;
+  }
+  
+  .home-nav a {
+    text-decoration: none;
+    color: #007bff;
+    transition: color 0.3s;
+  }
+  
+  .home-nav a:hover {
+    color: #0056b3;
+  }
+  
